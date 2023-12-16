@@ -1,0 +1,23 @@
+{
+  "name": "gelf-listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node listener",
+    "start:dev": "nodemon listener"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "graygelf": "^2.0.0",
+    "process": "^0.11.10",
+    "winston": "^3.11.0",
+    "winston-gelf": "^1.7.0"
+  }
+}

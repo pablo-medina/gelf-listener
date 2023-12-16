@@ -1,0 +1,12 @@
+{
+  "name": "example-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "start": "node client"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
